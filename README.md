@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python
+
 # About me
 
 Overall 8 years of experience in the IT Industry, possessing in-depth
