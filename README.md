@@ -1,4 +1,24 @@
-### Hi there 👋
+### 👋
+
+# About me
+
+Overall 8 years of experience in the IT Industry, possessing in-depth
+experience of managing cloud-based
+technology & effectively handling
+configuration & deployment of
+infrastructure & services. Gained
+hands-on experience in
+implementing core DevOps concepts
+such as containerization,
+virtualization, version control, cloud
+computing by using a wide variety of
+technologies. Adapt at learning and
+implementing new technologies very
+swiftly as demonstrated by the
+the transition from a Support Engineer
+to an AWS/DevOps Engineer. Drives
+excellence in every project to deliver
+outstanding results.
 
 <!--
 **karthik-valliappan/karthik-valliappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
