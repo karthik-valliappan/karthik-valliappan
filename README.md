@@ -16,8 +16,7 @@ virtualization, version control, cloud
 computing by using a wide variety of
 technologies. Adapt at learning and
 implementing new technologies very
-swiftly as demonstrated by the
-the transition from a Support Engineer
+swiftly as demonstrated by the transition from a Support Engineer
 to an AWS/DevOps Engineer. Drives
 excellence in every project to deliver
 outstanding results.
