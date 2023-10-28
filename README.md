@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently building a Trading Journal Analytics Dashboard WebApp using Python Streamlit Library
 
 # About me
 
