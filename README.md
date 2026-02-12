@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 🌱 I’m currently building a algo trading solution using Amibroker for option trading 
+ 
 
 # About me
 
